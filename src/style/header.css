@@ -1,5 +1,9 @@
 header {
   padding: 42px 0;
+  position: absolute;
+  z-index: 99;
+  width: 100%;
+  top: 0;
 }
 
 nav {
