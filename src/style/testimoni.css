@@ -1,0 +1,54 @@
+.testimonial-section .container {
+  background-color: #f4f0ec;
+  border-radius: 70px;
+  padding: 88px 25px;
+  overflow: hidden;
+}
+
+.testimoni-title {
+  font-size: 50px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.testimoni-card-wrapper {
+  display: flex;
+  justify-content: space-between;
+  column-gap: 20px;
+}
+
+.testimoni-card {
+  background-color: #fff;
+  border-radius: 44px;
+  padding: 60px 36px 85px;
+  width: 370px;
+}
+
+.testimoni-card-head {
+  align-items: center;
+  display: flex;
+  gap: 24px;
+}
+
+.testimoni-card-head img {
+  border-radius: 100%;
+  overflow: hidden;
+}
+
+.testimoni-card-head div p:first-child {
+  font-size: 25px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.testimoni-card-head div p:last-child {
+  font-size: 25px;
+  font-weight: 400;
+  margin: 0;
+}
+
+.testimoni-card-desc {
+  font-size: 22px;
+  font-weight: 400;
+  text-align: justify;
+}
